@@ -30,7 +30,7 @@ Through these projects, I gained a strong understanding of:
 | `HashMapImplementation.java` | Hash table with separate chaining |
 | `GraphTraversal.java` | Depth-first and breadth-first graph traversal |
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Java
 - VS Code
