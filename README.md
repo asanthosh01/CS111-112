@@ -43,3 +43,5 @@ All files are self-contained and can be run from the terminal or an IDE (like In
 ```bash
 javac FileName.java
 java FileName
+
+All code is my own original work from CS111 and CS112 at Rutgers. This repository is meant for portfolio purposes only — please do not copy code for academic submission.
